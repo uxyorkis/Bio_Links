@@ -1,8 +1,9 @@
 <h1 align="center">UX Yorkis</h1>
 
 <h4 align="center">Simple site to group all my links of interest</h4>
+---
 
-
+![MockUp](https://user-images.githubusercontent.com/92123986/184502951-762c7cee-1ec3-427f-b354-52126445dd0f.png)
 
 ---
 
